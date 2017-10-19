@@ -10,7 +10,7 @@
 
 ## 自我描述
 
-我是一名热爱**开源**的安卓开发者，喜欢把自己的代码分享给他人，方便他人学习和提供建议从而完善代码。我追求开发**高质量**及拥有**良好用户体验**的应用，对于这方面我编写了安卓开发的规范性文档 **[AndroidStandardDevelop](https://github.com/Blankj/AndroidStandardDevelop)** ，并把其发布到[GitHub](https://github.com)颇受好评；同样，我注重**开发效率**及**知识的累积**，在GitHub拥有 **13k+** star的安卓工具类项目 **[AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode)** 方便安卓开发者开发；当然，作为一名程序员，我也很是注重数据结构和算法，在GitHub上建立了自己的 **[LeetCode](https://leetcode.com)** 题解 **[awesome-java-leetcode](https://github.com/Blankj/awesome-java-leetcode)** ，可白板编程。
+我是一名热爱**开源**的安卓开发者，喜欢把自己的代码分享给他人，方便他人学习和提供建议从而完善代码。我追求开发**高质量**及拥有**良好用户体验**的应用，对于这方面我编写了安卓开发的规范性文档 **[AndroidStandardDevelop](https://github.com/Blankj/AndroidStandardDevelop)** ，并把其发布到[GitHub](https://github.com)颇受好评；同样，我注重**开发效率**及**知识的累积**，在GitHub拥有 **13k+** star的安卓工具类项目 **[AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode)** 提升安卓开发效率；当然，作为一名程序员，我也很是注重数据结构和算法，在GitHub上建立了自己的 **[LeetCode](https://leetcode.com)** 题解 **[awesome-java-leetcode](https://github.com/Blankj/awesome-java-leetcode)** ，可白板编程。
 
 
 ## 工作经验
@@ -20,9 +20,9 @@
 *2017/03 - 至今*
 
 在安卓开发团队中作为基础组件开发的核心成员，其主要职责如下：
-* 为开发团队书写了安卓开发规范文档，更有利于维护项目，促进成员之间CR。
-* 提取开发中的公共组件模块，合理分类并封装它们，提升组件复用性，从而提升团队开发效率。
-* 结合[marx/xlog](https://github.com/Tencent/mars)开发了团队日志框架，提升了日志性能，促进开发效率，便于收集问题。
+* 为开发团队书写了安卓开发规范文档，更有利于维护项目，促进成员之间CR；
+* 提取开发中的公共组件模块，合理分类并封装它们，提升组件复用性，从而提升团队开发效率；
+* 结合[marx/xlog](https://github.com/Tencent/mars)开发了团队日志框架，提升了日志性能，促进开发效率，便于收集问题；
 * 为团队封装统一的公共提示库，使其提示更为规范统一。
 
 ### **Android开发工程师** [杭州纳帕科技有限公司](http://www.53iq.com)
@@ -30,10 +30,10 @@
 *2016/07 - 2017/02*
 
 在安卓团队中主要从事智能厨电方面的开发，其主要经历如下：
-* 参与项目的搭建，选用合适的架构，合理分包，使可读性更好，促进团队开发效率。
-* 参与多个项目的用户界面的设计，灵活运用原声组件，使其用户体验更佳。
-* 参与公共组件的封装，提升组件复用性，从而提升团队开发效率。
-* 封装与电控板对接的协议，从而让协议的通用性更高。
+* 参与项目的搭建，选用合适的架构，合理分包，使可读性更好，促进团队开发效率；
+* 参与多个项目的用户界面的设计，灵活运用原声组件，使其用户体验更佳；
+* 参与公共组件的封装，提升组件复用性，从而提升团队开发效率；
+* 封装与电控板对接的协议，从而让协议的通用性更高；
 
 
 ## 技能专长
