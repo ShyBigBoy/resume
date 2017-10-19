@@ -10,12 +10,12 @@
 
 ## 自我描述
 
-我是一名热爱**开源**的安卓开发者，喜欢把自己的代码分享给他人，方便他人学习和提供建议从而完善代码。我追求开发**高质量**及拥有**良好用户体验**的应用，对于这方面我编写了安卓开发的规范性文档**[AndroidStandardDevelop](https://github.com/Blankj/AndroidStandardDevelop)**，并把其发布到GitHub颇受好评；同样，我注重**开发效率**及**知识的累积**，在GitHub拥有 **13k+** star的安卓工具类项目**[AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode)**方便安卓开发者开发；当然，作为一名程序员，我也很是注重数据结构和算法，在GitHub上建立了自己的**LeetCode**题解**[awesome-java-leetcode](https://github.com/Blankj/awesome-java-leetcode)**，可白板编程。
+我是一名热爱**开源**的安卓开发者，喜欢把自己的代码分享给他人，方便他人学习和提供建议从而完善代码。我追求开发**高质量**及拥有**良好用户体验**的应用，对于这方面我编写了安卓开发的规范性文档 **[AndroidStandardDevelop](https://github.com/Blankj/AndroidStandardDevelop)** ，并把其发布到[GitHub](https://github.com)颇受好评；同样，我注重**开发效率**及**知识的累积**，在GitHub拥有 **13k+** star的安卓工具类项目 **[AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode)** 方便安卓开发者开发；当然，作为一名程序员，我也很是注重数据结构和算法，在GitHub上建立了自己的 **[LeetCode](https://leetcode.com)** 题解 **[awesome-java-leetcode](https://github.com/Blankj/awesome-java-leetcode)** ，可白板编程。
 
 
 ## 工作经验
 
-### **高级Android开发工程师**  [亿咖通科技有限公司](https://www.lagou.com/gongsi/136597.html)
+### **高级Android开发工程师** [亿咖通科技有限公司](https://www.lagou.com/gongsi/136597.html)
 
 *2017/03 - 至今*
 
@@ -79,7 +79,7 @@
 
 ## 教育经历
 
-*2012/09 - 2016/06* [浙江传媒学院](http://www.zjicm.edu.cn) 电子信息工程 本科
+*2012 - 2016* [浙江传媒学院](http://www.zjicm.edu.cn) 电子信息工程 本科
 
 
 ## 个人荣誉
@@ -92,6 +92,3 @@
 ## 兴趣爱好
 
 爱折腾，喜欢探索和尝试没有干过的新鲜事物，业余喜爱打羽毛球、跑步。
-
-
-©2014 [Stephen Tudor](http://s17r.com/resume). All rights reserved. Direct contact only desired (no&nbsp;recruiters&nbsp;please).
