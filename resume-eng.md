@@ -1,6 +1,6 @@
-# Mengjie Cai {#name}
+# Mengjie Cai
 
-## Android Software Enginner {#job}
+## Android Software Enginner
 
 - Phone: +86 153-7205-5520
 - Email: [blankj@qq.com](blankj@qq.com)
