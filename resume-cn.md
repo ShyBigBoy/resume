@@ -8,12 +8,12 @@
 - GitHub: [Blankj](https://github.com/Blankj)
 
 
-## Summary
+## 自我描述
 
-我是一名热爱**开源**的安卓开发者，喜欢把自己的代码分享给他人，方便他人学习和提供建议从而完善代码。我追求开发**高质量**及拥有**良好用户体验**的应用，对于这方面我编写了安卓开发的规范性文档 **[AndroidStandardDevelop](https://github.com/Blankj/AndroidStandardDevelop)** ，并把其发布到[GitHub](https://github.com)颇受好评；同样，我注重**开发效率**及**知识的累积**，在GitHub拥有 **13k+** star的安卓工具类项目 **[AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode)** ，它可以极大地帮助安卓开发者们提升效率；当然，作为一名程序员，我也很是注重数据结构和算法，在[GitHub](https://github.com)上建立了自己的[LeetCode](https://leetcode.com)题解 **[awesome-java-leetcode](https://github.com/Blankj/awesome-java-leetcode)** ，除此之外我还具有白板编程的能力。
+我是一名热爱**开源**的安卓开发者，喜欢把自己的代码分享给他人，方便他人学习和提供建议从而完善代码。我追求开发**高质量**及拥有**良好用户体验**的应用，对于这方面我编写了安卓开发的规范性文档 **[AndroidStandardDevelop](https://github.com/Blankj/AndroidStandardDevelop)** ，并把其发布到 GitHub 颇受好评；同样，我注重**开发效率**及**知识的累积**，在 GitHub 拥有 **13k+** star的安卓工具类项目 **[AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode)** ，它可以极大地帮助安卓开发者们提升效率；当然，作为一名程序员，我也很是注重数据结构和算法，在 GitHub 上建立了自己的 LeetCode 题解 **[awesome-java-leetcode](https://github.com/Blankj/awesome-java-leetcode)** ，除此之外我还具有白板编程的能力。
 
 
-## Experience
+## 工作经验
 
 ### **高级Android开发工程师** [亿咖通科技有限公司](https://www.lagou.com/gongsi/136597.html)
 
@@ -38,11 +38,11 @@
 * 封装电控板对接的协议，从而让协议的通用性更高；
 
 
-## Skills & Expertise
+## 技能专长
 
 以下都是我平时用过或熟悉的编程语言、框架、软件及工具，带 ^†^ 符号的是我比较喜欢和常用的。
 
-### Programming Languages
+### 编程语言
 
 - [Java](https://www.java.com)^†^
 - [Python](https://www.python.org)
@@ -52,7 +52,7 @@
 - [JavaScript](https://www.javascript.com)
 - [HTML](https://www.w3.org/html)
 
-### Frameworks & APIs
+### 框架
 
 - [RxAndroid](https://github.com/ReactiveX/RxAndroid)^†^
 - [EventBus](https://github.com/greenrobot/EventBus)^†^
@@ -61,7 +61,7 @@
 - [Glide](https://github.com/bumptech/glide)^†^
 - [Dagger2](https://github.com/google/dagger)
 
-### Software & Tools
+### 工具软件
 
 - [Mac OS X](http://apple.com/macosx)^†^
 - [Adobe Photoshop](http://www.adobe.com/cn/products/cs6/photoshop.html)
@@ -79,18 +79,18 @@
 - [XMind](https://www.xmind.cn)
 
 
-## Education
+## 教育经历
 
 *2012 - 2016* [浙江传媒学院](http://www.zjicm.edu.cn) 电子信息工程 本科
 
 
-## Honors and Awards
+## 个人荣誉
 
 * 荣获第13届浙江省ACM大赛
 * 第6届和第7届蓝桥杯省赛一等，国赛二等
 * 3次一等校奖学金及3次二等校奖学金
 
 
-## Interests
+## 兴趣爱好
 
 爱折腾，喜欢探索和尝试没有干过的新鲜事物，业余喜爱打羽毛球、跑步。
