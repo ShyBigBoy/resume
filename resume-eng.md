@@ -30,7 +30,7 @@ I paly an important role in developing the basic component in Android team. My m
 
 *July 2016 - February 2017*
 
-I mainly engaged int the development of smart kitchen. My main experience is as follows:
+I mainly engaged in the development of smart kitchen. My main experience is as follows:
 
 * Participate in the construction of the project, choose the reasonable architecture, package by feature appropriately, which promote  development efficiency for  team.
 * Use of native components flexibly to build good user interfaces.
