@@ -10,12 +10,12 @@
 
 ## 自我描述
 
-我是一名热爱**开源**的安卓开发者，喜欢把自己的代码分享给他人，方便他人学习和提供建议从而完善代码。我追求开发**高质量**及拥有**良好用户体验**的应用，对于这方面我编写了安卓开发的规范性文档 **[AndroidStandardDevelop](https://github.com/Blankj/AndroidStandardDevelop)** ，并把其发布到 GitHub 颇受好评；同样，我注重**开发效率**及**知识的累积**，在 GitHub 拥有 **13k+** star的安卓工具类项目 **[AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode)** ，它可以极大地帮助安卓开发者们提升效率；当然，作为一名程序员，我也很是注重数据结构和算法，在 GitHub 上建立了自己的 LeetCode 题解 **[awesome-java-leetcode](https://github.com/Blankj/awesome-java-leetcode)** ，除此之外我还具有白板编程的能力。
+我是一名热爱**开源**的安卓开发者，喜欢把自己的代码分享给他人，方便他人学习和提供建议从而完善代码。我追求开发**高质量**及拥有**良好用户体验**的应用，对于这方面我编写了安卓开发的规范性文档 **[AndroidStandardDevelop](https://github.com/Blankj/AndroidStandardDevelop)** ，并把其发布到 GitHub 颇受好评；同样，我注重**开发效率**及**知识的累积**，在 GitHub 拥有 **15k+ stars** 的安卓工具类项目 **[AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode)** ，它可以极大地帮助安卓开发者们提升效率；当然，作为一名程序员，我也很是注重数据结构和算法，在 GitHub 上建立了自己的 LeetCode 题解 **[awesome-java-leetcode](https://github.com/Blankj/awesome-java-leetcode)** ，除此之外我还具有白板编程的能力。
 
 
 ## 工作经验
 
-### **高级Android开发工程师** [亿咖通科技有限公司](https://www.lagou.com/gongsi/136597.html)
+### **高级 Android 开发工程师** [亿咖通科技有限公司](https://www.lagou.com/gongsi/136597.html)
 
 *2017/03 - 至今*
 
@@ -23,10 +23,10 @@
 
 * 为开发团队书写了安卓开发规范文档，更有利于维护项目，促进成员之间CR；
 * 提取开发中的公共组件模块，合理分类并封装它们，提升组件复用性，从而提升团队开发效率；
-* 结合[marx/xlog](https://github.com/Tencent/mars)开发了团队日志框架，提升了日志性能，促进开发效率，便于收集问题；
+* 结合 [marx/xlog](https://github.com/Tencent/mars) 开发了团队日志框架，提升了日志性能，促进开发效率，便于收集问题；
 * 为团队封装统一的公共提示库，使其提示更为规范统一。
 
-### **Android开发工程师** [杭州纳帕科技有限公司](http://www.53iq.com)
+### **Android 开发工程师** [杭州纳帕科技有限公司](http://www.53iq.com)
 
 *2016/07 - 2017/02*
 
@@ -35,7 +35,7 @@
 * 参与项目的搭建，选用合适的架构，合理分包，使可读性更好，促进团队开发效率；
 * 参与多个项目的用户界面设计，可灵活运用原生组件，追求良好的用户体验；
 * 参与公共组件的封装，提升组件复用性，从而提升团队开发效率；
-* 封装电控板对接的协议，从而让协议的通用性更高；
+* 封装电控板对接的协议，从而让协议的通用性更高。
 
 
 ## 技能专长
@@ -86,9 +86,9 @@
 
 ## 个人荣誉
 
-* 荣获第13届浙江省ACM大赛
-* 第6届和第7届蓝桥杯省赛一等，国赛二等
-* 3次一等校奖学金及3次二等校奖学金
+* 荣获第 13 届浙江省**ACM大赛**；
+* 第 6 届和第 7 届蓝桥杯**省赛一等**，**国赛二等**；
+* 3 次**一等校奖学金**及 3 次**二等校奖学金**。
 
 
 ## 兴趣爱好
