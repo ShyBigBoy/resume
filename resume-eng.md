@@ -10,7 +10,7 @@
 
 ## Summary
 
-I am an Android developer who deeply love **open source**. I'd like to share my code which may help developers, and they can submit issues to improve the code. I am passionate about building **high quality** apps which have **good user interfaces**. In this case, I create a repository, **[AndroidStandardDevelop](https://github.com/Blankj/AndroidStandardDevelop)**, which is well received to help developers practise best in Android. Beyond that, I focus on the development efficiency and knowledge accumulation. I created **[AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode)** which has received more than **15k stars** to help developers develop more efficient. Of course, as a programmer, I also pay attention to data structures and algorithms. I create  **[awesome-java-leetcode](https://github.com/Blankj/awesome-java-leetcode)** to solve the problems in LeetCode.
+I am an Android developer who deeply love **open source**. I'd like to share my code which may help developers, and they can submit issues to improve the code. I am passionate about building **high quality** apps which have **good user interfaces**. In this case, I create a repository, **[AndroidStandardDevelop](https://github.com/Blankj/AndroidStandardDevelop)**, which is well received to help developers practice best in Android. Beyond that, I focus on the development efficiency and knowledge accumulation. I created **[AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode)** which has received more than **15k stars** to help developers develop more efficient. Of course, as a programmer, I also pay attention to data structures and algorithms. I create  **[awesome-java-leetcode](https://github.com/Blankj/awesome-java-leetcode)** to solve the problems in LeetCode.
 
 
 ## Experience
@@ -21,10 +21,12 @@ I am an Android developer who deeply love **open source**. I'd like to share my 
 
 I play an important role in developing the basic component in Android team. My main contributions are as follows.
 
-* Writing the document to help team practise best in developing. It promotes code review between members and rapids app development efficiency.
+* Writing the document to help team practice best in developing. It promotes code review between members and rapids app development efficiency.
 * Classifying and encapsulating the common component in development reasonably, which improves team development efficiency.
 * Developing a simple, pretty and powerful logger which is based on [marx/xlog](https://github.com/Tencent/mars) to improve development efficiency for team.
-* Wraping a unified dialogs and toast for team.
+* Wrapping a unified dialogs and toast for team.
+* Provide a statistics library, reducing the amount of team tasks to enhance development efficiency.
+
 
 ### **Android Software Engineer** [53iq](http://www.53iq.com)
 
