@@ -10,7 +10,7 @@
 
 ## Summary
 
-I am an Android developer who deeply love **open source**. I'd like to share my code which may help developers, and they can submit issues to improve the code. I am passionate about building **high quality** apps which have **good user interfaces**. In this case, I create a repository, **[AndroidStandardDevelop](https://github.com/Blankj/AndroidStandardDevelop)**, which is well received to help developers practice best in Android. Beyond that, I focus on the development efficiency and knowledge accumulation. I created **[AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode)** which has received more than **15k stars** to help developers develop more efficient. Of course, as a programmer, I also pay attention to data structures and algorithms. I create  **[awesome-java-leetcode](https://github.com/Blankj/awesome-java-leetcode)** to solve the problems in LeetCode.
+I am an Android developer who deeply love **open source**. I'd like to share my code which may help developers, and they can submit issues to improve the code. I am passionate about building **high quality** apps which have **good user interfaces**. In this case, I create a repository, **[AndroidStandardDevelop](https://github.com/Blankj/AndroidStandardDevelop)**, which is well received to help developers practice best in Android. Beyond that, I focus on the development efficiency and knowledge accumulation. I created **[AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode)** which has received more than **16k stars** to help developers develop more efficient. Of course, as a programmer, I also pay attention to data structures and algorithms. I create  **[awesome-java-leetcode](https://github.com/Blankj/awesome-java-leetcode)** to solve the problems in LeetCode.
 
 
 ## Experience
@@ -30,7 +30,7 @@ I play an important role in developing the basic component in Android team. My m
 
 ### **Android Software Engineer** [53iq](http://www.53iq.com)
 
-*July 2016 - February 2017*
+*June 2015 - February 2017*
 
 I mainly engaged in the development of smart kitchen. My main experience is as follows:
 
