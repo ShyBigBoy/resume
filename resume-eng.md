@@ -4,8 +4,8 @@
 
 - Phone: +86 153-7205-5520
 - Email: [blankj@qq.com](blankj@qq.com)
-- Blog: [blankj.com](http://blankj.com)
-- GitHub: [Blankj](https://github.com/Blankj)
+- Blog: [http://blankj.com](http://blankj.com)
+- GitHub: [https://github.com/Blankj](https://github.com/Blankj)
 
 
 ## Summary
@@ -15,9 +15,14 @@ I am an Android developer who deeply love **open source**. I'd like to share my 
 
 ## Experience
 
-### **Android Software Engineer**  [e-CarX](https://www.lagou.com/gongsi/136597.html)
+### **Android Software Engineer**  [51NB](https://www.u51.com)
 
-*March 2017 - Present*
+*March 2018 - Present*
+
+
+### **Android Software Engineer**  [e-CarX](http://www.ecarx.com.cn)
+
+*February 2017 - March 2018*
 
 I play an important role in developing the basic component in Android team. My main contributions are as follows.
 
@@ -54,6 +59,7 @@ These are languages, tools, and practices to which I have had exposure over the 
 - [JavaScript](https://www.javascript.com)
 - [HTML](https://www.w3.org/html)
 
+
 ### Frameworks & APIs
 
 - [RxAndroid](https://github.com/ReactiveX/RxAndroid)^†^
@@ -62,6 +68,7 @@ These are languages, tools, and practices to which I have had exposure over the 
 - [Gson](https://github.com/google/gson)^†^
 - [Glide](https://github.com/bumptech/glide)^†^
 - [Dagger2](https://github.com/google/dagger)
+
 
 ### Software & Tools
 

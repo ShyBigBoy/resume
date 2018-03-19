@@ -4,8 +4,8 @@
 
 - 联系电话: +86 153-7205-5520
 - 电子邮箱: [blankj@qq.com](blankj@qq.com)
-- 个人博客: [blankj.com](http://blankj.com)
-- GitHub: [Blankj](https://github.com/Blankj)
+- 个人博客: [http://blankj.com](http://blankj.com)
+- GitHub: [https://github.com/Blankj](https://github.com/Blankj)
 
 
 ## 自我描述
@@ -15,9 +15,14 @@
 
 ## 工作经验
 
-### **高级 Android 开发工程师** [亿咖通科技有限公司](https://www.lagou.com/gongsi/136597.html)
+### **Android 开发工程师** [51信用卡](https://www.u51.com)
 
-*2017/03 - 至今*
+*2018/03 - 至今*
+
+
+### **高级 Android 开发工程师** [吉利亿咖通科技有限公司](http://www.ecarx.com.cn)
+
+*2017/02 - 2018/03*
 
 在安卓开发团队中作为基础组件开发的核心成员，其主要职责如下：
 
@@ -28,6 +33,7 @@
 * 为各应用提供公共埋点库，减少团队任务量从而提升开发效率，使埋点统计更为方便。
 
 ### **Android 开发工程师** [杭州纳帕科技有限公司](http://www.53iq.com)
+
 
 *2015/06 - 2017/02*
 
@@ -53,6 +59,7 @@
 - [JavaScript](https://www.javascript.com)
 - [HTML](https://www.w3.org/html)
 
+
 ### 框架
 
 - [RxAndroid](https://github.com/ReactiveX/RxAndroid)^†^
@@ -61,6 +68,7 @@
 - [Gson](https://github.com/google/gson)^†^
 - [Glide](https://github.com/bumptech/glide)^†^
 - [Dagger2](https://github.com/google/dagger)
+
 
 ### 工具软件
 
