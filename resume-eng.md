@@ -1,11 +1,10 @@
-# Mengjie Cai
+# Zhicheng Huang
 
 ## Android Software Engineer
 
-- Phone: +86 153-7205-5520
-- Email: [blankj@qq.com](blankj@qq.com)
-- Blog: [http://blankj.com](http://blankj.com)
-- GitHub: [https://github.com/Blankj](https://github.com/Blankj)
+- Phone: +86 156-2522-3197
+- Email: [1104449876@qq.com](1104449876@qq.com)
+- GitHub: [https://github.com/ShyBigBoy](https://github.com/ShyBigBoy)
 
 
 ## Summary
@@ -15,14 +14,23 @@ I am an Android developer who deeply love **open source**. I'd like to share my 
 
 ## Experience
 
-### **Android Software Engineer**  [51NB](https://www.u51.com)
+### **System Software Engineer**  [TCL Communication Technology Holdings Ltd.](http://www.tclcom.com/)
 
-*March 2018 - Present*
+*April 2015 - Present*
 
+Understanding
+Being familiar with
+Mastering 
+Mainly responsible for customization, optimization and development of Android system on the mobile phone and tablet.
 
-### **Android Software Engineer**  [e-CarX](http://www.ecarx.com.cn)
+* Mastering Google CTS/GTS/VTS test and have the ability to solve related failure issues. Understanding CTS source code. Understanding UI Automator, black/white box test.Being familiar with software life cycle
+* Being familiar with MTK, Qualcomm platform and Android OS architecture. Being familiar with AMS, PMS, event distribution mechanism of Android system, Binder communication mechanism, Fingerprint/TEE/KeystoreService authentication flow, boot and shutdown flow, Multi-user mechanism.
+* Being familiar with Android stability optimization, and have the ability to analyze and solve related issues -- ANR issue, Crash issue, Native Exception issue, abnormal reboot issue, OOM issue, etc...
+* Being familiar with Android fluency optimization, Mastering Systrace tool to analyze sliding caton issue, launch slowly issue.
 
-*February 2017 - March 2018*
+### **Framework Software Engineer**  [Foxconn Technology Group](http://www.foxconn.com/)
+
+*August 2013 - April 2015*
 
 I play an important role in developing the basic component in Android team. My main contributions are as follows.
 
@@ -33,18 +41,6 @@ I play an important role in developing the basic component in Android team. My m
 * Provide a statistics library, reducing the amount of team tasks to enhance development efficiency.
 
 
-### **Android Software Engineer** [53iq](http://www.53iq.com)
-
-*June 2015 - February 2017*
-
-I mainly engaged in the development of smart kitchen. My main experience is as follows:
-
-* Participate in the construction of the project, choose the reasonable architecture, package by feature appropriately, which promote  development efficiency for  team.
-* Use of native components flexibly to build good user interfaces.
-* Encapsulate public libraries to enhance reusability.
-* Encapsulate the protocol of the electric control board so as to make the protocol more versatile.
-
-
 ## Skills & Expertise
 
 These are languages, tools, and practices to which I have had exposure over the past years. Those things which enjoy routine usage in my daily work are denoted with a ^†^ symbol.
@@ -53,11 +49,8 @@ These are languages, tools, and practices to which I have had exposure over the 
 
 - [Java](https://www.java.com)^†^
 - [Python](https://www.python.org)
-- [Kotlin](http://kotlinlang.org)
 - [C/C++](http://www.cplusplus.com)
 - [Shell](http://www.linuxshell.it)
-- [JavaScript](https://www.javascript.com)
-- [HTML](https://www.w3.org/html)
 
 
 ### Frameworks & APIs
@@ -72,25 +65,16 @@ These are languages, tools, and practices to which I have had exposure over the 
 
 ### Software & Tools
 
-- [Mac OS X](http://apple.com/macosx)^†^
-- [Adobe Photoshop](http://www.adobe.com/cn/products/cs6/photoshop.html)
-- [Alfred 3](https://www.alfredapp.com)^†^
+- [Ubuntu](http://apple.com/macosx)^†^
 - [Android Studio](https://developer.android.com/studio/index.html?hl=zh-cn)^†^
-- [Atom](https://atom.io)^†^
+- [Vim](https://atom.io)^†^
 - [Git](https://git-scm.com)^†^
-- [IntelliJ IDEA](https://www.jetbrains.com/idea)^†^
-- [iTerm](https://www.iterm2.com)^†^
-- [JIRA](https://www.atlassian.com/software/jira)^†^
-- [on-my-zsh](https://github.com/robbyrussell/oh-my-zsh)^†^
-- [Postman](https://www.getpostman.com)^†^
-- [PyCharm](https://www.jetbrains.com/pycharm)
-- [Source Tree](https://www.sourcetreeapp.com)^†^
-- [XMind](https://www.xmind.cn)
+- [VS Code](https://www.jetbrains.com/idea)^†^
 
 
 ## Education
 
-[Zhejiang University Of Media And Communications](http://www.zjicm.edu.cn), Electronic and Information Engineering, 2012 - 2016
+[Hubei University For Nationalities](http://www.hbmy.edu.cn), Computer Science and Technology(B.E.), 2009 - 2013
 
 
 ## Honors and Awards
